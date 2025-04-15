@@ -1,0 +1,1 @@
+# simple-GENAI-app-using-ollama
